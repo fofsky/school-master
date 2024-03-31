@@ -1,0 +1,5 @@
+export enum FileType {
+    EXTRAIT_NAISSANCE = 'EXTRAIT_NAISS',
+    DIPLOME_BAC = 'DIPLOME_BAC',
+    PHOTO_IDENTITE = 'ID_PHOTO'
+}
